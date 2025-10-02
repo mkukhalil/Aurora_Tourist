@@ -1,0 +1,11 @@
+.c-item{
+    height: 480px;
+}
+.c-item img{
+    height: 100%;
+    object-fit: cover;
+}
+.overview{
+    height: 150px;
+    background-color: #d3dae1;
+}
